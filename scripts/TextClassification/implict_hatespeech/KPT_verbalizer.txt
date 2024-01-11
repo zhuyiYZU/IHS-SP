@@ -1,0 +1,2 @@
+friendly,active,bliss,commend,electrifying,fantastic,genius,honest,impressive,marvelous,natural,optimistic,pleasurable,rejoice,surprising,wealthy
+offensive,adverse,banal,confused,deplorable,frighten,grotesque,harmful,impossible,negative,oppressive,revolting,sobbing,terrible,vicious,unlucky

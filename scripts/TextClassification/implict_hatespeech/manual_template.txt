@@ -1,0 +1,4 @@
+This is a comment about {"mask"}: {"placeholder": "text_a"}. The sentiment of this comment could be either friendly or offensive 
+A {"mask"} comment : {"placeholder": "text_a"}
+ {"placeholder": "text_a"} This comment is {"mask"} .
+ The category of {"placeholder": "text_a"} is {"mask"}.
